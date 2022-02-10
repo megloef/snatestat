@@ -1,0 +1,225 @@
+id,name_short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
+fb,brantner,Franziska Brantner,0,2,1979,1,4,1,2,NA,1,14047,4470,2747,26
+ft,toncar,Florian Toncar,0,1,1979,1,4,2,3,1,3,8588,3069,4478,99
+rss,sutter,Rita Schwarzelühr-Sutter,0,2,1962,1,5,3,1,2,2,4249,1534,2941,17
+tl,lindner,Tobias Lindner,0,1,1982,2,4,3,2,NA,1,10503,3579,4920,NA
+bs,strasser,Benjamin Strasser,0,1,1987,1,6,2,3,2,NA,5811,3920,3372,287
+co,oezdemir,Cem Özdemir,0,1,1965,3,5,4,2,3,2,317191,105000,162574,NA
+mat,theurer,Michael A. Theurer,0,1,1967,1,5,3,3,1,2,8478,3744,27913,NA
+ck,kuehn,Chris Kühn,0,1,1979,1,7,1,2,NA,3,4786,1660,97,35
+jb,brandenburg,Jens Brandenburg,0,1,1986,1,4,1,3,NA,0,5407,3321,NA,NA
+mw,wirtschaft,Ministerium Wirtschaft,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mf,finanzen,Ministerium Finanzen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mi,inneres,Ministerium Inneres,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aa,auswaertigesamt,Auswärtiges Amt,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mj,justiz,Ministerium Justiz,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+me,ernaehrung,Ministerium Ernährung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mv,verkehr,Ministerium Verkehr,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mu,umwelt,Ministerium Umwelt,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mb,bildung,Ministerium Bildung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dfpv,deutschfranzösischevers,Deutsch-Französische Parlamentarische Versammlung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ep,europaparlament,Europäisches Parlament,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+db,deutscherbundestag,Deutscher Bundestag,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gr,gruene,Partei Grüne,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kp,krisenpraevention,"Unterausschuss Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ac,antonyscollege,European Studies Centre St Antony’s College in Oxford,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+unifem,frauenrechtsorganisation,UN-Frauenrechtsorganisation,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ec,europeancouncil,European Council on Foreign Relations,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bes,bertelsmann,Bertelsmann Sitftung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fa,familienausschuss,"Ausschuss für Familie, Senioren, Frauen und Jugend",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aau,auswaertigerausschuss,Auswärtiger Ausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+eua,euausschuss,Ausschuss für die Angelegenheiten der Europäischen Union,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bgc,covid,Parlamentarisches Begleitgremium Covid-19-Pandemie,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+age,elyseevertrag,Deutsch-französische Arbeitsgruppe zum Elysee-Vertrag,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jdc,jacques,Jacques Delors Centre,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+zif,friedenseinsätze,Zentrum für Internationale Friedenseinsätze gemeinnützige GmbH (ZIF),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bsmk,stiftungmutterkind,Bundesstiftung Mutter und Kind − Schutz des ungeborenen Lebens,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ae,avanti,Avanti Europe ! e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+um,unimannheim,Universität Mannheim,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+yc,youthcaucus,„Youth Caucus“ der UN Commission on the Status of Women,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fsk,friedenskommission,Friedens- und Sicherheitspolitische Kommission der Bundespartei,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sa,sicherheitsausschuss,Unterausschuss für Sicherheit und Verteidigung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fra,frauenrechtsausschuss,Frauenrechts- und Gleichstellungsausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hha,haushaltsausschuss,Haushaltsausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+eppsp,secularism,European Parliament Platform for Secularism in Politics ,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sgi,spinelli,Spinelli-Gruppen-Initiative,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hbs,boellstiftung,Heinrich-Böll-Stiftung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+epc,policycentre,European Policy Centre,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aca,advisory,Advisory Commitee Asylos,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vdfgfe,vereinigungdeutschfranz,Vereinigung Deutsch-Französischer Gesellschaften für Europa e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+twfe,tuwas,TuWas für Europa e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+iep,insituteuropapolitik,Institut für Europäische Politik e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ebd,europabewegungde,Europäische Bewegung Deutschland e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+abhia,humanityinaction,Advisory Board Humanity in Action e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+botfoe,friendsofeurope,Board of Trustees Friends of Europe,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dfi,insitutdeutschfranz,Deutsch-französisches Insitut e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vhspp,verwaltungshsparis,"Verwaltungshochschule Sciences Po, Paris",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sipa,columbiauni,"Columbia University’s School of Public and International Affairs (SIPA), New York",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ua,untersuchungsauschuss,3. Untersuchungsausschuss: Wirecard-Affäre,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fia,finanzausschuss,Finanzausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ar,altrat,Der Ältestenrat,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ga,gemeinsamerausschuss,Gemeinsamer Ausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aih,auschussinneres,Ausschuss für Inneres und Heimat,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wa,wahlausschuss,Wahlausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+va,vermittlungsausschuss,Vermittlungsausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+awig,ausschusswahl,"Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fbl,freshfields,"Freshfields Bruckhaus Deringer LLP, London",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ass,anwaltservice,"AnwaltService Stuttgart GmbH, Stuttgart",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+arbf,fortbildung,Fortbildung „Aktuelle Regulierung von Banken und Finanzdienstleistern,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kfw,kreditanstalt,"Kreditanstalt für Wiederaufbau (KfW), Frankfurt",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vwr,verwaltungsrat,Verwaltungsrat,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gzs,gesellschaftstudium,"Gesellschaft zum Studium strukturpolitischer Fragen e.v., Berlin",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bfi,beiratfinanzen,Beirat Finanzen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+stv,stiftungverantwortung,"Stiftung Verantwortungseigentum e.V., Berlin",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gwd,grundwehrdienst,Grundwehrdienst beim Fernmelderegiment 220,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lfa,landesfachausschuss,Landesfachausschuss (LFA) Innen und Recht der FDP Baden-Württemberg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fmg,finanzmarktgremium,Finanzmarktgremium,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ur,uniregensburg,Universität Regensburg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uc,unicambridge,Universität Cambridge,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uh,uniheidelberg,Universität Heidelberg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ut,unitübingen,Eberhard-Karls-Universität Tübingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+krboe,kreisratböb,Kreisrat im Landkreis Böblingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rwas,richterwahlausschuss,Richterwahlausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vdfg,vereinderfreunde,Verein der Freunde des Goldberg-Gymnasiums Sindelfingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sca,collegeassociation,Selwyn College Association Cambridge,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lgs,literarischegesellschaft,Literarische Gesellschaft Scheffelbund,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dlrg,dlrg,DLRG,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dag,deutschatlantischegesellschaft,Deutsch-Atlantische Gesellschaft,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dig,deutschisaelischegesellschaft,Deutsch-Israelische Gesellschaft,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+helpev,helpev,help e.V. ,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+avr,alumnivereinheidelberg,Alumniverein der Ruprecht-Karls-Universität Heidelberg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vdfr,vereinderfreunderegensburg,Verein der Freunde der Universität Regensburg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+reaus,rechtsausschuss,Rechtsausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+parlbei,parlamentarischerbeirat,Parlamentarischer Beirat für nachhaltige Entwicklung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+stabmechg,stabmechg,Gremium gemäß § 3 des Stabilisierungsmechanismusgesetzes (StabMechG),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+paramount,paramount,"Paramount Group Inc., New York",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+flug,zweckverbandflugfeld,Zweckverband Flugfeld Böblingen/Sindelfingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+muell,restmuellheizkraftwerk,Zweckverband Restmüllheizkraftwerk Böblingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ha,hauptausschuss,Hauptausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uf,unifreiburg,Universität Freiburg im Breigau,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uz,unizuerich,Universität Zürich,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+buk,beratung,Beratung und Kommunikation für Karin Rehbock-Zureich,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+staatunn,staatssekretaerinumwelt,"Parlamentarische Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz und nukleare Sicherheit",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+spd,spd,SPD,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+regiov,regionalverband,Regionalverband Hochrhein-Bodensee,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kwa,kreistagwaldshut,Kreistag Landkreis Waldshut,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+verdi,verdi,ver.di,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vergessen,gegenvergessen,Gegen Vergessen Für Demokratie e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+eurosolare,eurosolare,EUROSOLARE Europäische Vereinigung für Erneuerbare Energien e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klar,klar,KLAR - Kein Leben mit atomaren Risiken,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hospiz,hospizdienst,Hospizdienst e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+grs,gesellschaftreaktorsicherheit,"Geselllschaft für Anlagen- und Reaktorsicherheit (GRS) mbH, Köln",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dbu,umweltstiftung,"Deutsche Bundesstiftung Umwelt (DBU), Osnabrück",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wspd,wirtschaftsforum,"Wirtschaftsforum der SPD e.V., Berlin",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+awo,arbeiterwohlfahrt,Arbeiterwohlfahrt,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+asf,arbeitsgemeinschaftfrau,Arbeitsgemeinschaft sozialdemokratischer Frauen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+awut,ausschusswirtschafttechno,Ausschuss für Wirtschaft und Technologie,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+avbs,ausschussverkehr,"Ausschuss für Verkehr, Bau und Stadtentwicklung",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ev,evfachhochschulereutlingen,Evangelische Fachhochschule für Sozialwesen Reutlingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ajc,americanjewishcommittee,American Jewish Committee,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dtf,deutschtürkischesforum,Deutsch-Türkisches Forum Stuttgart e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ths,theodorheussstiftung,Theodor-Heuss-Stiftung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vea,verkehrsausschuss,Ausschuss für Verkehr und digitale Infrastruktur,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bvmw,bundesverbandwirtschaft,Bundesverband Mittelständische Wirtschaft,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ub,ullsteinbuchverlage,Ullstein Buchverlage GmbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+csl,celebrityspeakers,Celebrity Speakers Limited,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dr,drheimeier,Dr. Heimeier & Partner Management- und Personalberatung GmbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ey,ernstyoung,Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+im,immoebs,IMMOEBS e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+siaf,schweizerischesinstitut,Schweizerisches Institut für Auslandsforschung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tn,tapestrynetworks,Tapestry Networks,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tlsb,thelondonspeakerbureau,The London Speaker Bureau,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sefep,smartenergyforeurope,Agora Verkehrswende Smart Energy for Europe Plattform,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dsi,deutschlandstiftung,Deutschlandstiftung Integration gemeinnützige GmbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+start,startstiftung,Start-Stiftung gemeinnützige GmbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ifm,institutmobilität,Institut für Mobilität der Universität St. Gallen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+iff,institutfreedom,Institute for Freedom of Faith & Security in Europe,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ai,atlantischeinitiative,Atlantische Initiative e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+as,avicennastudienwerk,Avicenna-Studienwerk e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dpz,progressiveszentrum,Das Progressive Zentrum e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fc,fcplayfair,FC Play Fair! Verein für Integrität und Nachhaltigkeit im Fußball e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ikw,ichkannwas,Ich kann was!-Initiative für Kinder und Jugendliche e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sgf,stiftunggedenkenfrieden,Stiftung Gedenken und Frieden,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+snv,stiftungneueverantwortung,Stiftung Neue Verantwortung e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sbe,stiftungbildung,Stiftung: Bildung Egitim!,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tdp,tuerkischdeutscheplattform,Türkisch-Deutsche Studierenden und Akademiker Plattform e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wwl,wirtschaftwestfalen,Wirtschaftliche Gesellschaft für Westfalen und Lippe e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+zdf,zdffernsehrat,ZDF Fernsehrat,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aw,ausschusswirtschaftenergie,Ausschuss für Wirtschaft und Energie,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+af,aktionfahrrad,AKTIONfahrRAD,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fdp,fdp,FDP,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hka,haushaltskontrollausschuss,Haushalt-Kontrollausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vrn,verbandsversammlung,Verbandsversammlung Regionalverband Nordschwarzwald,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rms,reinholdmaierstiftung,Reinhold-Maier-Stiftung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wds,wolfgangdoeringstiftung,Wolfgang-Döring-Stiftung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dhbw,dualehochschulebw,Duale Hochschule Baden-Württemberg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sdv,staatsekretariatdigitalverkehr,Staatsekretariat für Digitales und Verkehr,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aas,ausschussarbeitsoziales,Ausschuss für Arbeit und Soziales,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aut,ausschusstourismus,Ausschuss für Tourismus,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,ausschussgesundheit,Ausschuss für Gesundheit,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+iks,konferenzstabilitaet,"Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+cnc,communicationsnetwork,Communications & Network Consulting AG,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+leuco,leucoag,Leuco AG,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ksk,kreissparkasse,Kreisparkkasse Freudenstadt,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lb,lbank,Landeskreditbank Baden-Württemberg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bb,badenbaden,Baden-Badener Unternehmer Gespräche e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dk,deutscheskomitee,Deutsches Komitee der AIESEC e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+idi,initiativeinfrastruktur,Initiative Deutsche Infrastruktur e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wcd,wirtschaftsclub,Wirtschaftspolitischer Club Deutschland e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+twf,twfmetall,TWF Metallbearbeitungs Holding UG,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ausbauwo,ausschussbauwohnen,"Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rechtaus,rechtausschuss,Ausschuss für Recht und Verbraucherschutz,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+umaus,umweltausschuss,"Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+stadtbahn,prostadtbahn,Pro RegioStadtbahn e.V,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+verbwohn,wohneigentum,Verband Wohneigentum e.V,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kuaus,kulturausschuss,Ausschuss Kultur und Medien,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+deneff,initiativeenergie,Deutsche Unternehmensinitiative Energieeffizienz e.V. (DENEFF),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+baukultur,stiftungbaukultur,Bundesstiftung Baukultur,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mithermann,mitarbeithermann,Mitarbeiter des Bundestagsabgeordneten Winne Hermann,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mitverwaltung,mitarbeitverwaltung,Mitarbeiter in der Verwaltung der Fakultät für Wirtschaftswissenschaften der Uni Tübingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+koaaus,koalition,Koalitionsausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uber,uberater,Unternehmensberater,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gsess,economicschool,Graduate School of Economic and Social Sciences,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hirschfeld,stiftunghirschfeld,Bundesstiftung Magnus Hirschfeld,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aids,stiftungaids,Deutsche AIDS-Stiftung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ecoclub,economyclub,Young Economy Club e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+privaths,privatehochschule,Verband der privaten Hochschulen e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lisl,liberaleschwules,Liberale Schwule und Lesben (LiSL) Deutschland e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dsw,studentenwerk,Deutsches Studentenwerk e.V. (DSW),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bildaus,bildungsausschluss,Ausschuss für Bildung,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+unikarl,unikarlsruhe,Karlsruher Institut für Technologie,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lfu,landesanstaltumweltschutz,Zivildienst an der Landesanstalt für Umweltschutz Baden-Württemberg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+svw,stadtverbandwörth,Stadtverband Wörth am Rhein,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ktg,kreistaggermersheim,Kreistag Germersheim,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+srw,stadtratwörth,Stadtrat Wörth am Rhein,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+verta,verteidigungsausschuss,Verteidigungsausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rpa,rechnungsprüfungsausschuss,Rechnungsprüfungsausschuss,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vg,vertrauensgremium,Vertrauensgremium,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pvnato,parlamentarischeversammlungnato,Parlamentarische Versammlung der NATO,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+diparl,deutschirischeparlamentarier,Deutsch-Irische Parlamentariergruppe,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rb,rolandbergergmbh,Roland Berger GmbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hs,hectorschool,Hector School of Engineering and Management,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+eow,ostfriesischewinzer,Erste Ostfriesische Winzergenossenschaft eG i.G.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bfia,bundesanstaltimmo,Bundesanstalt für Immobilienaufgaben,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+eud,europauniondeutschland,Europa-Union Deutschland e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mgh,mehrgenerationen,Mehrgenerationenhaus der Stadt Wörth am Rhein,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+zva,zweckverbandabfall,Zweckverband Abfallverwertung Südwestpfalz,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aif,agindustrielleforschung,Arbeitsgemeinschaft industrieller Forschungsvereinigungen Otto von Guericke e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dgf,deutschgeorgischesforum,"Deutsch-Georgisches Forum für Politik, Wissenschaft und Kultur e.V.",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gh,givadhaviva,Freundeskreis Givat Haviva Deutschland e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+difg,industrieforschung,Deutsche Industrieforschungsgemeinschaft Konrad Zuse e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+juli,jungeliberale,Junge Liberale,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+unikon,unikonstanz,Universität Konstanz,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lgst,landgerichtstuttgart,Landgericht Stuttgart,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nsuu,nsuuntersuchung,NSU-Untersuchungsausschuss Landtag Baden-Württemberg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gmb,gemeindeberg,Gemeinderat Gemeinde Berg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ktr,kreistagravensburg,Kreistag Ravensburg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+zfg,gremiumzollfahndung,Gremium Zollfahndungsgesetz,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+msu,mittelstandunternehmen,Syndikusrechtsanwalt Mittelständisches Unternehmen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lhp,lhp gesellschaft,LHP Dienstleistungs- und Bildungssellschaft GmbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bmv,bundesmusikverband,Bundesmusikverband Chor und Orchester e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+zfs,zukunftsforumsicherheit,Zukunftsforum öffentliche Sicherheit e.V.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+amnesty,amnestyinternational,Amnesty International,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+brb,blutreiterberg,Blutreitergruppe Berg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+cpp,chorpeterpaul,Kirchenchor St. Peter und Paul ,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kbda,kommissionberuflichebildung,Kommission Berufliche Bildung in der digitalen Arbeitswelt,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
